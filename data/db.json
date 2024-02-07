@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "acad",
+      "body": "kdsa",
+      "author": "Raj",
+      "id": "1"
+    },
+    {
+      "title": "bsd",
+      "body": "kdsa",
+      "author": "Rudra",
+      "id": "2"
+    },
+    {
+      "title": "casdg",
+      "body": "kdsa",
+      "author": "Dhruv",
+      "id": "3"
+    },
+    {
+      "id": "06b1",
+      "title": "newBlog5",
+      "body": "hello guys, react almost done",
+      "author": "Raj"
+    }
+  ]
+}
